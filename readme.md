@@ -25,8 +25,8 @@ This Python project is designed to scrape detailed information about political c
 Start by cloning the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/noorulislam770/web_scrapper_pf.git
+cd web_scrapper_pf
 ```
 
 ### 2. Install Dependencies
@@ -52,7 +52,7 @@ You can now run the web scraping tool. It will prompt you to enter the candidate
 Run the following command to start the script:
 
 ```bash
-python app.py
+python scraper.py
 ```
 
 ### 5. Saving Data
