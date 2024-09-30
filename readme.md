@@ -42,8 +42,8 @@ pip install -r requirements.txt
 You need to download and install ChromeDriver that matches your version of Google Chrome:
 
 1. Check your Chrome version by navigating to `chrome://settings/help` in your Chrome browser.
-2. [Download the corresponding version of ChromeDriver](https://chromedriver.chromium.org/downloads) and extract it.
-3. Place the `chromedriver` executable in a location that's in your system's PATH or specify the path directly in the code (line 19 in `app.py`).
+2. [Download the corresponding version of ChromeDriver](https://www.chromedriverdownload.com/en/download/) and extract it.
+3. Place the `chromedriver` executable in a location that's in your system's PATH or specify the path directly in the code (line 22 in `scraper.py` ).
 
 ### 4. Running the Web Scraper
 
